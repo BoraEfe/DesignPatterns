@@ -1,4 +1,5 @@
-﻿using ObserverPattern.Interfaces;
+﻿using Microsoft.VisualBasic;
+using ObserverPattern.Interfaces;
 using System;
 
 namespace ObserverPattern.Displays
@@ -7,13 +8,15 @@ namespace ObserverPattern.Displays
     {
         private float temperature;
         private float humidity;
-        private float pressure;
+        private float pressure; 
         private Subject weatherData;
+        
 
         public CurrentConditionDisplay(Subject weatherData)
         {
             // Set the field and register itself with the weatherdata subject
             this.weatherData = weatherData;
+            weatherData.RegisterObserver(this);
         }
 
         public void Update(float temp, float humidity, float pressure)

@@ -10,9 +10,9 @@ namespace ObserverPattern
 
             // Create instances of displays 
 
-            weatherData.RegisterObserver(new CurrentConditionDisplay(weatherData));
-            weatherData.RegisterObserver(new StatisticsDisplay(weatherData));
-            weatherData.RegisterObserver(new ForecastDisplay(weatherData));
+            new CurrentConditionDisplay(weatherData);
+            new StatisticsDisplay(weatherData);
+            new ForecastDisplay(weatherData);
 
             weatherData.SetMeasurements(28, 65, 30.4f);
             weatherData.SetMeasurements(29, 70, 29.2f);

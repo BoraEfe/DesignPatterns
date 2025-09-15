@@ -12,13 +12,14 @@ namespace ObserverPattern.Displays
         private float temperature;
         private float sumTemperature = 0;
         private float maxTemp = 0;
-        private float minTemp = 20;
+        private float minTemp = 0;
         private int countUpdated = 0;
         private Subject weatherData;
         public StatisticsDisplay(Subject weatherData) 
         {
             // Set the field and register itself with the weatherdata subject
             this.weatherData = weatherData;
+            weatherData.RegisterObserver(this);
         }
         public void Update(float temp, float humidity, float pressure)
         {
