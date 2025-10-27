@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bora Efe\\Desktop\\ObserverPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98DF620A-43C2-1BFD-D200-B89D4B93B738}|ObserverPattern.csproj|c:\\users\\bora efe\\desktop\\observerpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DF620A-43C2-1BFD-D200-B89D4B93B738}|ObserverPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DF620A-43C2-1BFD-D200-B89D4B93B738}|ObserverPattern.csproj|c:\\users\\bora efe\\desktop\\observerpattern\\interfaces\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DF620A-43C2-1BFD-D200-B89D4B93B738}|ObserverPattern.csproj|solutionrelative:interfaces\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DF620A-43C2-1BFD-D200-B89D4B93B738}|ObserverPattern.csproj|c:\\users\\bora efe\\desktop\\observerpattern\\interfaces\\displayelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DF620A-43C2-1BFD-D200-B89D4B93B738}|ObserverPattern.csproj|solutionrelative:interfaces\\displayelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DF620A-43C2-1BFD-D200-B89D4B93B738}|ObserverPattern.csproj|c:\\users\\bora efe\\desktop\\observerpattern\\displays\\statisticsdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DF620A-43C2-1BFD-D200-B89D4B93B738}|ObserverPattern.csproj|solutionrelative:displays\\statisticsdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DF620A-43C2-1BFD-D200-B89D4B93B738}|ObserverPattern.csproj|c:\\users\\bora efe\\desktop\\observerpattern\\displays\\forecastdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DF620A-43C2-1BFD-D200-B89D4B93B738}|ObserverPattern.csproj|solutionrelative:displays\\forecastdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DF620A-43C2-1BFD-D200-B89D4B93B738}|ObserverPattern.csproj|c:\\users\\bora efe\\desktop\\observerpattern\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DF620A-43C2-1BFD-D200-B89D4B93B738}|ObserverPattern.csproj|solutionrelative:weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DF620A-43C2-1BFD-D200-B89D4B93B738}|ObserverPattern.csproj|c:\\users\\bora efe\\desktop\\observerpattern\\displays\\currentconditiondisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DF620A-43C2-1BFD-D200-B89D4B93B738}|ObserverPattern.csproj|solutionrelative:displays\\currentconditiondisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DF620A-43C2-1BFD-D200-B89D4B93B738}|ObserverPattern.csproj|c:\\users\\bora efe\\desktop\\observerpattern\\interfaces\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DF620A-43C2-1BFD-D200-B89D4B93B738}|ObserverPattern.csproj|solutionrelative:interfaces\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DisplayElement.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\ObserverPattern\\Interfaces\\DisplayElement.cs",
+              "RelativeDocumentMoniker": "Interfaces\\DisplayElement.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\ObserverPattern\\Interfaces\\DisplayElement.cs",
+              "RelativeToolTip": "Interfaces\\DisplayElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:04:03.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\ObserverPattern\\WeatherData.cs",
+              "RelativeDocumentMoniker": "WeatherData.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\ObserverPattern\\WeatherData.cs",
+              "RelativeToolTip": "WeatherData.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:50:44.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Observer.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\ObserverPattern\\Interfaces\\Observer.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Observer.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\ObserverPattern\\Interfaces\\Observer.cs",
+              "RelativeToolTip": "Interfaces\\Observer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:50:36.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\ObserverPattern\\Interfaces\\Subject.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Subject.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\ObserverPattern\\Interfaces\\Subject.cs",
+              "RelativeToolTip": "Interfaces\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:50:28.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForecastDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\ObserverPattern\\Displays\\ForecastDisplay.cs",
+              "RelativeDocumentMoniker": "Displays\\ForecastDisplay.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\ObserverPattern\\Displays\\ForecastDisplay.cs",
+              "RelativeToolTip": "Displays\\ForecastDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:48:00.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CurrentConditionDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\ObserverPattern\\Displays\\CurrentConditionDisplay.cs",
+              "RelativeDocumentMoniker": "Displays\\CurrentConditionDisplay.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\ObserverPattern\\Displays\\CurrentConditionDisplay.cs",
+              "RelativeToolTip": "Displays\\CurrentConditionDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:42:54.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\ObserverPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\ObserverPattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:39:03.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatisticsDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\ObserverPattern\\Displays\\StatisticsDisplay.cs",
+              "RelativeDocumentMoniker": "Displays\\StatisticsDisplay.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\ObserverPattern\\Displays\\StatisticsDisplay.cs",
+              "RelativeToolTip": "Displays\\StatisticsDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T11:58:36.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -27,16 +27,31 @@ namespace ObserverPattern
                 observer.Update(temperature, humidity, pressure);
             }
         }
-
+        
         public void RegisterObserver(Observer o)
         {
             // Check if observer is not already subscribed, if not then add to the list of observers
-            observers.Add(o);
+            if (!observers.Contains(o))
+            {
+                observers.Add(o);
+            }
+            else
+            {
+                Console.WriteLine("Observer is already registered.");
+            }
         }
 
         public void RemoveObserver(Observer o)
         {
             // Check if observer is subscribed, if they are then remove from the list of observers
+            if(observers.Contains(o))
+            {
+                observers.Remove(o);
+            }
+            else
+            {
+                Console.WriteLine("Observer not found.");
+            }
             observers.Remove(o);
 
         }

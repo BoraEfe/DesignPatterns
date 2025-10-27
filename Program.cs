@@ -9,7 +9,7 @@ namespace ObserverPattern
             WeatherData weatherData = new WeatherData();
 
             // Create instances of displays 
-
+           
             new CurrentConditionDisplay(weatherData);
             new StatisticsDisplay(weatherData);
             new ForecastDisplay(weatherData);

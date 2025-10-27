@@ -10,7 +10,6 @@ namespace ObserverPattern.Displays
         private float humidity;
         private float pressure; 
         private Subject weatherData;
-        
 
         public CurrentConditionDisplay(Subject weatherData)
         {
